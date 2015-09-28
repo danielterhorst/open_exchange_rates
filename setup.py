@@ -16,6 +16,9 @@ setup(
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.7',
     ],
+    install_requires=[
+        'requests'
+    ],
     packages=['open_exchange_rates'],
     zip_safe=False
 )
