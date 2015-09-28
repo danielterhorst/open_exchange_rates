@@ -9,6 +9,8 @@ An Open Exchange Rates (https://openexchangerates.org/) API client written in Py
 
 ## Usage
 
+Get all exchange rate for base currency (Enterprise/Unlimited Plan feature):
+
 ```python
 from open_exchange_rates.client import Client
 
