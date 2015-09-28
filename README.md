@@ -7,6 +7,10 @@ An Open Exchange Rates (https://openexchangerates.org/) API client written in Py
 * git clone https://github.com/danielterhorst/open_exchange_rates.git
 * python setup.py install
 
+Or:
+
+* pip install open_exchange_rates
+
 ## Usage
 
 Get all exchange rate for base currency (Enterprise/Unlimited Plan feature):
